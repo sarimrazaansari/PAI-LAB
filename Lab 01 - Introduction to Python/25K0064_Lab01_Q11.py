@@ -1,4 +1,9 @@
 # 11. Read the marks of 3 subjects into a dictionary with appropriate keys, then calculate the average and the percentage.
+
+# Name: Sarim Raza Ansari
+#Roll No: 25K0064
+#Q11
+
 i=0
 dic={}
 while i<3:

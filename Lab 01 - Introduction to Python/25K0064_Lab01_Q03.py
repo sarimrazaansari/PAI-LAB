@@ -1,3 +1,9 @@
+# 3. Take an integer list from the user, count all the even numbers in it, and print the count.
+
+# Name: Sarim Raza Ansari
+#Roll No: 25K0064
+#Q3
+
 lst=[]
 count=0
 while True:

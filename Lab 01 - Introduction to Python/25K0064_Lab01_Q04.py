@@ -1,3 +1,8 @@
+# 4. Take a list of numbers and return the sum of all its elements.
+
+# Name: Sarim Raza Ansari
+#Roll No: 25K0064
+#Q4
 
 lst=list()
 while True:
